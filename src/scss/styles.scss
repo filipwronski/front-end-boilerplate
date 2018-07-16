@@ -1,0 +1,11 @@
+// Base styles
+@import "bootstrap/bootstrap-grid";
+@import 'variables';
+
+// Plugins
+@import 'plugins/slick';
+@import 'plugins/slick-theme';
+@import 'plugins/animate';
+
+// Main styles
+@import 'homepage';

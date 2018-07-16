@@ -1,0 +1,23 @@
+@font-face {
+  font-family: "neutra-bold";
+  src: url("fonts/Neutra_Text_TF_Bold_Alt.otf");
+}
+@font-face {
+  font-family: "neutra";
+  src: url("fonts/Neutra_Text_TF_Book.otf");
+}
+@font-face {
+  font-family: "sofia-bold";
+  src: url("fonts/Sofia_Pro_Semi_Bold.otf");
+}
+@font-face {
+  font-family: "sofia";
+  src: url("fonts/Sofia_Pro_Regular.otf");
+}
+
+* {
+  box-sizing: border-box;
+}
+html {
+  font-size: 62.5%;
+}
